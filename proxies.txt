@@ -1,0 +1,2 @@
+https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54
+https://t.me/proxy?server=telegram.innocom.co&port=443&secret=77c8004d081f42093bb119817f7f57b0
